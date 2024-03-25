@@ -1,8 +1,13 @@
-Interview Panel Management System****
+**Interview Panel Management System**
+
         This is the console based application which is used to manage the face to face interview which is held at company after the previous rounds.
+        
         In this application,Admin is the main audience ,Admin will handle the interview process.
+        
         The Admin will add the interviewers and candidates,Once they are added succesfully,They have access to use this application with thier credentials.
-Features:****
+        
+**Features**:
+
       1.Login
       2.Company Setup
       3.Add Interviewers
